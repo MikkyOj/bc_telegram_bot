@@ -1,0 +1,1 @@
+https://p2p-api.stg.bananacrystal.com/api/v1/external_rate/list
